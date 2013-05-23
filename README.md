@@ -1,2 +1,2 @@
-k_github_images
+K's images for github
 ===============
